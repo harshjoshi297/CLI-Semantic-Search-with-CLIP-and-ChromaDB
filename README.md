@@ -188,6 +188,3 @@ torch
 
 ---
 
-## License
-
-MIT
