@@ -34,8 +34,8 @@ Because CLIP is multimodal, the same text query can match both images and docume
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/CLI-Semantic-Search.git
-cd CLI-Semantic-Search
+git clone https://github.com/harshjoshi297/CLI-Semantic-Search-with-CLIP-and-ChromaDB.git
+cd CLI-Semantic-Search-with-CLIP-and-ChromaDB
 
 # Create and activate virtual environment
 python3 -m venv venv
