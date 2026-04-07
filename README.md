@@ -1,6 +1,7 @@
 # CLI Semantic Search
 
 Search your images and documents using natural language — powered by CLIP and ChromaDB.
+Demo link - https://youtu.be/q9FBwY6K-PQ
 
 ```bash
 sem-index --path ~/Pictures
